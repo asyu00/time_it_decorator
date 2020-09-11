@@ -1,5 +1,5 @@
 # time_it_decorator
-### simple decorator that times the whole function execution time once.
+### simple decorator that times the whole function execution once.
 
 - Usage
   ```
