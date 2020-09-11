@@ -18,7 +18,7 @@
   > Elapsed Time for my_func_with_return: 0:00:00.000038
   > hi
   
-  
+  @time_it
   def my_func_no_return():
     # some intensive stuff
     do_my_stuff = 'hi'
